@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif)]
+[![MasterHead](https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif)](https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif)
 <h1 align="center">Hi 👋, I'm MOHAMED BAARAR</h1>
 <h3 align="center">A Passionate Coder on his learning journey</h3>
 
