@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://user-images.githubusercontent.com/67517241/197403192-4a84435e-f4ba-4506-9b6e-261b5fc5a400.png))](![image](https://user-images.githubusercontent.com/67517241/197403207-dd4291b7-6799-4501-907b-61624bcdcb56.png))
+[![MasterHead](https://miro.medium.com/max/1400/0*eIhVp0KXrXSSHORN.gif)](https://miro.medium.com/max/1400/0*eIhVp0KXrXSSHORN.gif)
 <h1 align="center">Hi 👋, I'm MOHAMED BAARAR</h1>
 <h3 align="center">A Passionate Coder on his learning journey</h3>
 
