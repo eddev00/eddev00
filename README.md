@@ -31,7 +31,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eddev00&show_icons=true&locale=en&layout=compact" alt="eddev00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eddev00&show_icons=true&locale=en" alt="eddev00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eddev00&" alt="eddev00" /></p>
 
