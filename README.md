@@ -12,7 +12,7 @@
 
 - 🤝 I'm looking to contribute **in Open Source Projects.**
 
-- 👨‍💻 All of my projects are available at ["portfolio site in progress"]("portfolio site in progress")
+- 👨‍💻 All of my projects are available at ["(https://www.baarar.com/)"]
 
 - 💬 Ask me about **anything, i'd be happy to get in contact with people.**
 
